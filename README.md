@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gehad Magdi 👋</h1>
 
-<p align="center"><em>Computer science student passionate about AI, web development, and problem solving.</em></p>
+<p align="center"><em>Computer science student passionate about AI.</em></p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
