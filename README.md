@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Gehad Magdi 👋</h1>
+<p align="center">Welcome to my GitHub profile 💻✨</p>
 
-<!--
-**Gehad-Magdi9/Gehad-Magdi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gehad-Magdi9&theme=dark" alt="GitHub Streak" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gehad-Magdi9&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gehad-Magdi9&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gehad-Magdi9&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
