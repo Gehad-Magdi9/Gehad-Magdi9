@@ -3,7 +3,5 @@
 <p align="center"><em>Computer science student passionate about AI.</em></p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Gehad-Magdi9&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Gehad-Magdi9&theme=tokyonight" alt="GitHub Streak" />
 </p>
